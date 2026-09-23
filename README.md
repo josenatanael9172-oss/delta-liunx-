@@ -357,3 +357,22 @@ fi
 
 echo "Instalação e personalização do Delta Linux concluídas com sucesso."
 %end
+Licença MIT
+
+Copyright (c) 2026 José Natanael / Delta Linux Project
+
+É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e dos ficheiros de documentação associados (o "Software"), para negociar
+o Software sem restrições, incluindo, sem limitação, os direitos de usar, cópiar,
+modificar, fundir, publicar, distribuir, sublicenciar e/ou vender cópias do Software,
+e para permitir a quem o Software é fornecido o faça, sujeito às seguintes condições:
+
+O aviso de direitos de autor acima e este aviso de permissão devem ser incluídos em todas
+as cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO,
+EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO Às GARANTIAS DE COMERCIALIZAÇÃO,
+ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO. EM NENHUM CASO OS AUTORES OU TITULARES
+DOS DIREITOS DE AUTOR SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA
+RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, DELITO OU OUTRA, DECORRENTE DE, OUT OF OU
+EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
