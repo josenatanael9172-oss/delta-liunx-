@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="4gvWc2Xk7Tx4SkWkDUmhTEs8NMvE-COqrXHU3V9udcI" />🚀 Delta Linux lançamento oficial no mês de Natal no dia 10 ou no dia do Natal que não lançar ano novo também não há com a acontecer ainda ta desenvolvendo
+<meta name="google-site-verification" content="4gvWc2Xk7Tx4SkWkDUmhTEs8NMvE-COqrXHU3V9udcI" />🚀 Delta Linux lançamento oficial no mês de Natal no dia 10 ou no dia do Natal que não lançar ano novo também não há com a acontecer ainda ta desenvolvendo delta Linux 2.0 o lançamento ainda não mas a gente asa vai ser 2027 esse é liunx  brasileiro
 
 O **Delta Linux** é um sistema operacional de código aberto, minimalista e altamente performático, construído com base nas tecnologias robustas do ecossistema Fedora. O projeto foca em leveza, transparência visual e produtividade fluida.
 
