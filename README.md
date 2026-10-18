@@ -18,7 +18,8 @@ O **Delta Linux** é um sistema operacional de código aberto, minimalista e alt
 - **Linguagem:** C++ (Padrão C++17)
 - **Framework Gráfico:** Qt6 (Core, Gui, Widgets)
 - **Build System:** CMake
-- **Instalação/ISO:** Automação via arquivos Kickstart do Fedora.
+- **Instalação/ISO:** miniOS
+- .
 
 ---
 
